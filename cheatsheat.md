@@ -56,3 +56,15 @@ $git commit -m "A really through explanation of what we did since this is someon
 Finish what you started wirking on, then push up any addtional commit.
 
 File a pull request with the commits in that you want to share. Make sure you have a good explanation in the pull request of what this is, what it's intended to do.  and some nice language.
+
+
+### How to work on two different things at the same time.
+
+
+###typical collabration patters
+
+A typical collcabration pattern is to actually to fork nd then branch off matser,  then push to your fork then file a pull request. 
+
+The reason fot is  that master, as a branch, should always represent code or whatever that 'works'
+ an dis suitable for deployment or sharing ir whatever going on.
+
