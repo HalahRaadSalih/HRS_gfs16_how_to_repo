@@ -56,3 +56,8 @@ $git commit -m "A really through explanation of what we did since this is someon
 Finish what you started wirking on, then push up any addtional commit.
 
 File a pull request with the commits in that you want to share. Make sure you have a good explanation in the pull request of what this is, what it's intended to do.  and some nice language.
+
+
+### How to work on two different things at the same time.
+
+
