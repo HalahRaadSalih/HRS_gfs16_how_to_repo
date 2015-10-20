@@ -68,3 +68,4 @@ A typical collcabration pattern is to actually to fork nd then branch off matser
 The reason fot is  that master, as a branch, should always represent code or whatever that 'works'
  an dis suitable for deployment or sharing ir whatever going on.
 
+###branching_explanation
