@@ -69,3 +69,17 @@ The reason fot is  that master, as a branch, should always represent code or wha
  an dis suitable for deployment or sharing ir whatever going on.
 
 ###branching_explanation
+
+### User configuration settings
+Setting your username through git
+
+`git config --global user.name` -  This can be used to either change the user name or display the current user name.
+
+`git config --global user.email` -  This can be used to either change the user email or display the current user email.
+
+```shell
+$git config --global user.name
+$git config --global user.name <your git username>
+$git config --global user.email 
+$git config --global user.email <your git account email> 
+```
