@@ -22,3 +22,11 @@ $git add <whatever file>
 $git status
 $git commit -m "I made a bunch of changes, there are so many detials"
 ```
+
+### Share my wrok with the world, yo!
+
+```shell
+
+$git remote add origin github@github.com:<github username/repo_name>
+$git push -u origin master
+```
