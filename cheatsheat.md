@@ -32,7 +32,7 @@ $git push -u origin master
 ```
 
 
-### Help  someone else with their code
+### Help  someone else with their code 
 
 first, find the code on github that you want to contrubute to.
 
@@ -52,3 +52,7 @@ Then make changes that you think are important.
 $git add <your files>
 $git commit -m "A really through explanation of what we did since this is someone else's work"
 ```
+
+Finish what you started wirking on, then push up any addtional commit.
+
+File a pull request with the commits in that you want to share. Make sure you have a good explanation in the pull request of what this is, what it's intended to do.  and some nice language.
