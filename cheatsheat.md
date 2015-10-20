@@ -30,3 +30,25 @@ $git commit -m "I made a bunch of changes, there are so many detials"
 $git remote add origin github@github.com:<github username/repo_name>
 $git push -u origin master
 ```
+
+
+### Help  someone else with their code
+
+first, find the code on github that you want to contrubute to.
+
+Then fork it.
+
+
+
+```shell
+$ git clone git@gitbub.com:< your username>/<name repo>.git
+```
+
+Then make changes that you think are important. 
+
+
+```shell
+
+$git add <your files>
+$git commit -m "A really through explanation of what we did since this is someone else's work"
+```
